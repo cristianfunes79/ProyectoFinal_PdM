@@ -6,10 +6,10 @@ Se implemento de tal forma que cada fsm quede contenida por completo en su propi
 Se definio una capa de comunicaciones y parseo de mensajes, la misma maneja 3 tipos de mensajes basicos: request, ack y temperatura.
 
 ## Request
-<REQ:?>
+\<REQ:?\>
 
 ## ACK
-<ACK>
+\<ACK\>
 
 ## Temperatura
-<TTT> Donde TTT es un numero de 3 digitos que representa la temperatura en Kelvin
+\<TTT\> Donde TTT es un numero de 3 digitos que representa la temperatura en Kelvin
